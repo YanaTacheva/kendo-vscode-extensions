@@ -24,8 +24,8 @@
     ".NET",
     "SPA"
   ],
-  "preview": true,
-  "homepage": "https://github.com/telerik/kendo-vscode-extensions/blob/master/README.md",
+  "preview": false,
+  "homepage": "https://www.telerik.com/kendo-ui/",
   "bugs": {
     "url": "https://github.com/telerik/kendo-vscode-extensions/issues"
   },
